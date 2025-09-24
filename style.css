@@ -9,7 +9,7 @@
 
 }
 .navbar{
-    height:60px;
+    height:50px;
     background-color:#0f1111;
     color:white;
     display:flex;
@@ -23,14 +23,16 @@
     width: 100px;
 }
 
-.logo{
-    background-image: url("amazon1-jpg.png");
-    background-size:cover;
+/* .logo{
+     background-image: url("./All-Image/amazon1.png");
+    background-size: cover;
     height: 50px;
     width: 150px;
-    margin-right: 20px;
 
-}
+    margin-top: -5px;   
+    margin-left: -10px; 
+
+} */
 
 
 .border:hover{
@@ -154,7 +156,7 @@ span{
 /**** Hero section ****/
 
 .hero-section {
-    background-image: url(hero_image.jpg);
+    background-image: url(/All-Image/hero_image.jpg);
     height: 350px;
     background-size:cover;
     display:flex;
